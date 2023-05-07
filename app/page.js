@@ -4,7 +4,7 @@ import styles from './page.module.css'
 export default function Home() {
   return (
    <main>
-    <h1>Hello, Welcome to your goal tracker </h1>
+    <h1>Hello, Welcome to your Milestone tracker </h1>
    </main>
   )
 } 
